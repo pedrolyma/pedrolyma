@@ -17,6 +17,11 @@ I am been Student fullstack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" height="30" width="40" style="max-width:100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="30" width="40" style="max-width:100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="java" height="30" width="40" style="max-width:100%;"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolyma&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolyma&layout=compact)](https://github.com/pedrolyma/github-readme-stats)
+
+
 <!--
 **pedrolyma/pedrolyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
